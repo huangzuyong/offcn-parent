@@ -27,6 +27,6 @@ eureka:
 oss:
   endpoint: http://oss-cn-beijing.aliyuncs.com
   bucketDomain: hzy239.oss-cn-beijing.aliyuncs.com
-  accessKeyId: LTAI4GDeD**********
-  accessKeySecret: MICx2eUOj8888888888888aZuiM0
-  bucketName: hzy239
+  accessKeyId: LT
+  accessKeySecret: MIC
+  bucketName: hzy
